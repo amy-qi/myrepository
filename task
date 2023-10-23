@@ -1,1 +1,5 @@
 print("Hello")
+
+# Menghitung 2 pangkat 3
+result = 2 ** 3
+print(result)  # Output akan menjadi 8
